@@ -1,0 +1,9 @@
+branch-defaults:
+  default:
+    environment: myapp-dev
+global:
+  application_name: myapp
+  default_ec2_keyname: html5_iwate
+  default_platform: Ruby 2.1 (Puma)
+  default_region: ap-northeast-1
+  profile: eb-cli
